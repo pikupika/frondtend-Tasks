@@ -1,1 +1,3 @@
-# Random-text-generator
+# Frontend Tasks 
+- Random Text Generator
+- text translator 
