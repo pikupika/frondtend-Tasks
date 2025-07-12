@@ -1,3 +1,3 @@
 # Frontend Tasks 
-- Random Text Generator
-- text translator 
+- 01app -> Random Text Generator
+- 02app -> text translator 
